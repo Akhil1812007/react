@@ -1,0 +1,27 @@
+{
+  "name": "igniting-react-app",
+  "version": "1.0.0",
+  "description": "This is second episode of namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhil1812007/react.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "akhil"
+  ],
+  "author": "AKHIL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhil1812007/react/issues"
+  },
+  "homepage": "https://github.com/Akhil1812007/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
