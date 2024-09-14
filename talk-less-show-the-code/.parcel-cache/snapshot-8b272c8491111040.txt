@@ -6,7 +6,7 @@
 125C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@swc\helpers\cjs\_class_private_field_update.cjs133707149268334853 0
 101C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@mischnic\json-sourcemap133707149242066151 1
 98C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@swc\helpers\_\_using133707149267089436 1
-76C:\Intense-learning\namaste-react\react\talk-less-show-the-code\package.json133707149920902322 0
+76C:\Intense-learning\namaste-react\react\talk-less-show-the-code\package.json133707816950574199 0
 99C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\js-tokens\package.json133707147480941037 0
 135C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133707149259811481 0
 117C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@parcel\core\lib\public\PluginOptions.js133707149266104194 0
@@ -34,7 +34,7 @@
 126C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\caniuse-lite\data\features\input-email-tel-url.js133707149276137870 0
 102C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@swc\helpers\_\_ts_values133707149266919467 1
 108C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\cosmiconfig\dist\index.d.ts.map133707149257374642 0
-74C:\Intense-learning\namaste-react\react\talk-less-show-the-code\.gitignore133707173666190338 0
+74C:\Intense-learning\namaste-react\react\talk-less-show-the-code\.gitignore133707814352631432 0
 107C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@parcel\core\src\assetUtils.js133707149258220106 0
 68C:\Intense-learning\namaste-react\react\talk-less-show-the-code\dist133707810998544440 1
 117C:\Intense-learning\namaste-react\react\talk-less-show-the-code\node_modules\@parcel\reporter-cli\src\bundleReport.js133707149239656804 0

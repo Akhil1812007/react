@@ -2,7 +2,7 @@
   "name": "talk-less-show-the-code",
   "version": "1.0.0",
   "description": "building food delivery application",
-  "main": "App.js",
+
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
