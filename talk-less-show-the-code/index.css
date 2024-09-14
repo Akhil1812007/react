@@ -7,6 +7,7 @@
 }
 .header__nav-list{
     display: flex;
+   
 }
 .header__logo{
    height: 5em;
@@ -16,4 +17,36 @@
     padding: 10px;
     list-style-type: none; 
     font-size: large;
+}
+.res-card{
+    
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+    background-color: rgb(198, 192, 198);
+   
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 2px solid;
+}
+.food-image{
+    width: auto;
+    height: 200px;
+}
+.rate-time{
+    display: flex;
+    justify-content: space-between;
+}
+.cuisine{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.res-card-list{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.search{
+    padding: 10px;
 }
